@@ -3,7 +3,7 @@ from django.dispatch import receiver
 from django.db.models.signals import post_save
 from django.conf import settings
 from rest_framework.authtoken.models import Token
-# Create your models here.
+# Create your wonderful models here.hello world
 #create a department model class by inheriting the Model class
 #create a receiver for the signal 'post_save' for the user model
 #once its created create a Token for thet user
